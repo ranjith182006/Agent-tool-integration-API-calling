@@ -1,0 +1,7 @@
+python3.11
+libraries required:
+langchain
+langchain-community
+transformers
+torch
+requests
