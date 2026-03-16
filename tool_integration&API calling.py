@@ -34,7 +34,7 @@ def calculator(expression):
 
 import requests
 
-API_KEY = "5e167f1b162e1489a62ea37a30be5ff5"
+API_KEY = "ENTER_YOUR_OPENWEATHER API_KEY"#YOUR API KEY
 
 def weather(city):
 
